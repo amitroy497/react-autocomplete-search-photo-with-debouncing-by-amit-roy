@@ -1,0 +1,22 @@
+.autoCompleteContainer input[type='text'] {
+	width: 250px;
+	padding: 10px 20px;
+	box-sizing: border-box;
+}
+.autoCompleteSection {
+	width: 250px;
+	margin: 10px auto 0 auto;
+	padding: 10px 0;
+	text-align: left;
+	background: #fff;
+	max-height: 400px;
+	overflow-y: auto;
+}
+.autoCompleteField {
+	cursor: pointer;
+	padding: 4px 20px;
+	box-sizing: border-box;
+}
+.autoCompleteField:hover {
+	background: greenyellow;
+}
